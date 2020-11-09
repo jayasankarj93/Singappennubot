@@ -163,7 +163,7 @@ else:
         spam_watch = None
         
 # Load at end to ensure all prev variables have been set
-from cinderella.modules.helper_funcs.handlers import CustomCommandHandler, CustomRegexHandler, CustomMessageHandler
+from Singappennubot.modules.helper_funcs.handlers import CustomCommandHandler, CustomRegexHandler, CustomMessageHandler
 
 # make sure the regex handler can take extra kwargs
 tg.RegexHandler = CustomRegexHandler
