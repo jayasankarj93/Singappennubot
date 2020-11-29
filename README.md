@@ -1,5 +1,5 @@
 ### @Singappennubot // http://www.telegram.dog/Singappennubot
-> woman with extra power ⚡⚡⚡⭐🌟💫✨
+> bots are my passion ⚡⚡⚡⭐🌟💫✨
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -17,7 +17,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/ea0e098341eb29314eb70.jpg)](https://heroku.com/deploy?template=https://github.com/jayasankarj93/Singappennubot.git)
+[![Deploy](https://telegra.ph/woman-with-extra-power-11-29)](https://heroku.com/deploy?template=https://github.com/jayasankarj93/Singappennubot.git)
 
 ### Configuration
 
