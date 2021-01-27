@@ -17,7 +17,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/singappennubot-01-07)](https://heroku.com/deploy?template=https://github.com/jayasankarj93/Singappennubot.git)
+[![Deploy](https://telegra.ph/file/230fca64c6b6ab49deec5.jpg)](https://heroku.com/deploy?template=https://github.com/jayasankarj93/Singappennubot.git)
 
 ### Configuration
 
@@ -33,7 +33,7 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from cinderella.sample_config import Config
+from singappennubot.sample_config import Config
 
 
 class Development(Config):
