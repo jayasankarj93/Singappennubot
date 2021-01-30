@@ -17,7 +17,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-![Deploy](https://telegra.ph/woman-with-extra-power-11-29)(https://heroku.com/deploy?template=https://github.com/jayasankarj93/Singappennubot.git)
+[![Deploy](https://telegra.ph/file/4b71d986ac45ef76d0aac.jpg)(https://heroku.com/deploy?template=https://github.com/jayasankarj93/Singappennubot.git)]
 
 ### Configuration
 
